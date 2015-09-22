@@ -7,6 +7,7 @@ public class Person {
     private final String name;
     private final String surname;
     private final Date date;
+    private static final long MILLIS_PER_YEAR = (long) (1000*60*60*24*365.25);
 
     public Person(String name, String surname, Date date) {
         this.name = name;
@@ -31,7 +32,12 @@ public class Person {
     }
 
     public int getAge(){
-        Date today = new Date();
-        return (int) ((today.getTime()-date.getTime())/(1000*60*60*24*365.25));
+        return ageCalculatorByMillis(new Date().getTime()-date.getTime());
     }
+
+    private int ageCalculatorByMillis(long millis){
+        return (int) (millis/MILLIS_PER_YEAR);
+    }
+
+
 }
