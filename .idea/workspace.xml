@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="feeb615d-6d62-4141-b6e9-a76a2bfc12b4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/person/org/Person.java" afterPath="$PROJECT_DIR$/src/person/org/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kata1IS2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/person/org/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10769231" vertical-offset="0" max-vertical-offset="714">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.61025643" vertical-offset="210" max-vertical-offset="798">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding>
                 <element signature="e#367#368#0" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
@@ -39,6 +40,8 @@
                 <element signature="e#458#459#0" expanded="true" />
                 <element signature="e#491#492#0" expanded="true" />
                 <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -396,12 +399,12 @@
       <created>1442908434462</created>
       <option name="number" value="Default" />
       <updated>1442908434462</updated>
-      <workItem from="1442908434430" duration="822000" />
+      <workItem from="1442908434430" duration="1194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="822000" />
+    <option name="totallyTimeSpent" value="1194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -458,8 +461,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/person/org/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10769231" vertical-offset="0" max-vertical-offset="714">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.61025643" vertical-offset="210" max-vertical-offset="798">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
             <element signature="e#367#368#0" expanded="true" />
             <element signature="e#394#395#0" expanded="true" />
@@ -467,6 +470,8 @@
             <element signature="e#458#459#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
           </folding>
         </state>
       </provider>
